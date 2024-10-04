@@ -7,10 +7,12 @@ Script en bash que automatiza el escaneo de puertos en nmap y su posterior escan
 
 ### Opcional 
 Copiar en /usr/local/bin para ejecutarlo de forma directa
+
 `sudo mv Autonmap /usr/local/bin`
 
-## Uso
+### Uso
 `sudo /.Autonmap <IP>`
+
 
 ## Demostración
 
